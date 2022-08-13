@@ -10,17 +10,10 @@ View it <b><a href="https://shaicoyg.github.io/PMs-Cards-Game/
 <h2>Summary</h2>  
 
 
-- Arduino Uno.
-- 2 Ultrasonic sensors.
-- 1 light dependent resistor.
-- matrix.
-- some cables.
-- some tape.
-
 
 
 - Total of 9 PM's.
 - Success counter.
 - Reset function.
 - Name display when a match is found.
-- 
+

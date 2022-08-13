@@ -1,7 +1,7 @@
 # PM's Cards Game  
 ![Capture](https://i.ibb.co/rkHT4N3/memory-pms-game.png)
 <br/><br/>
-<b>An memory cards game. theme is israel former PM's.
+<b>A memory cards game. theme is israel former PM's.
 <br/>
 project done with pure HTML&CSS&JS.</b>  
 View it <b><a href="https://shaicoyg.github.io/PMs-Cards-Game/

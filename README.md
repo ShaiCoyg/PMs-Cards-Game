@@ -4,7 +4,9 @@
 <b>A memory cards game. theme is israel former PM's.
 <br/>
 project done with pure HTML&CSS&JS.</b>  
-View it <b><a href="https://shaicoyg.github.io/PMs-Cards-Game/
+<br/>
+
+Play it <b><a href="https://shaicoyg.github.io/PMs-Cards-Game/
 ">live</a></b>.
 
 <h2>Summary</h2>  
